@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>004040</cortexto>
+        <titulo>Encuentro con Dios en su Palabra</titulo>
+        <imaxefondo posx="0" posy="0" trans="100">25101.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva1.JPG</imaxe>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva_1a.jpg</imaxe>
+              <son auto="1">En_la_lecci_on_2.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>Oremos.jpg</imaxe>
+              <son auto="1">Oraci_on.mp3</son>
+              <forma>1</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>15</tipo>
+              <cfondo>C0C0C0</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Estudiar la Biblia"><![CDATA[
+<p align="left">
+<font color="#000000" face="Aptos" size="32"><b>1</b>. Introducción a la importancia del estudio.<br>
+<b>2</b>. Comparación entre lectura y estudio de la Biblia<br>
+<b>a</b>. Ejemplo de Esdras como modelo de estudio bíblico<br>
+<b>b</b>. Requisitos para el estudio efectivo<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="Cómo estudiarla"><![CDATA[
+<p align="left">
+<font color="#080000" face="Aptos" size="32"><b>1. Necesidades básicas</b><br>
+a. Corazón entregado a Dios en oración y humildad<br>
+b. Importancia del papel del Espíritu Santo en la comprensión<br>
+<b>2. Metodología del estudio inductivo</b><br>
+a. Observación, interpretación y aplicación<br>
+b. Ejemplo práctico de observación en Romanos 12:1</font></p>
+]]></menu>
+              <menu boton="Cómo memorizarla"><![CDATA[
+<p align="left">
+<font color="#080000" face="Aptos" size="32"><b>1. Importancia de la memorización</b><br>
+Beneficios espirituales y prácticos<br>
+<b>2. Estrategias para la memorización</b><br>
+a. Oración, dedicación de tiempo y repetición<br>
+b. Enfoque en la palabra por palabra<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="Meditar la Palabra"><![CDATA[
+<p align="left">
+<font color="#080000" face="Aptos" size="28"><b>1. Definición y propósito de la meditación</b><br>
+a. Contraste con definiciones contemporáneas<br>
+b. Referencias bíblicas sobre la meditación<br>
+<b>2. Prácticas para la meditación</b><br>
+a. Seleccionar pasajes significativos<br>
+b. Escribir, orar y tomarse tiempo<br>
+c. Enfoque en la profundización del conocimiento de Dios<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <menu boton="Reflexión final"><![CDATA[
+<p align="left">
+<font color="#080000" face="Aptos" size="32">1. Invitación a considerar la grandeza de Dios a través de las Escrituras<br>
+2. Incentivo para dedicar tiempo a la meditación y al estudio continuo<br>
+<br>
+<br>
+</font></p>
+]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <cabeceira>El estudio biblico</cabeceira>
+              <pe>Puedes detener el audio dando click en este ícono</pe>
+              <son auto="1">Introducci_on_al_estudio_b_iblico.mp3</son>
+              <texto posx="0" posy="-1" ancho="614" largo="356"><![CDATA[
+<p align="left">
+<font color="#080000" face="DokChampa" size="28"><b>1</b></font><font color="#080000" face="DokChampa" size="24"><b>: Introducción al Estudio Bíblico</b><br>
+<br>
+¿Qué significa realmente estudiar la Biblia? Imagina que leer la Biblia es como navegar en un lago, pero estudiarla es como sumergirte en sus profundidades cristalinas. <br>
+<br>
+¿Cómo podemos hacerlo? Esdras, un hombre de la Biblia, nos enseña que necesitamos un corazón entregado y una Biblia en mano.<br>
+<br>
+<b>2: Estrategias Prácticas para Estudiar</b><br>
+<br>
+No necesitas ser un erudito para estudiar la Biblia. Todo lo que necesitas es hacer preguntas mientras lees. Por ejemplo, cuando leemos un versículo como "Ama a tu prójimo como a ti mismo", podemos preguntarnos quién está hablando, a quién se dirige y qué significa amar a nuestro prójimo. Así es como profundizamos en la comprensión de la Biblia.<br>
+<br>
+<b>3: Beneficios de la Memorización Bíblica</b><br>
+<br>
+¿Alguna vez has memorizado un número de teléfono o una contraseña? La memorización de la Biblia es similar. Nos ayuda a recordar las verdades importantes en momentos clave. Por ejemplo, cuando nos enfrentamos a la tentación, tener versículos bíblicos en nuestra mente puede fortalecernos y ayudarnos a tomar decisiones sabias.<br>
+<br>
+<b>4: Explorando la Meditación Bíblica</b><br>
+<br>
+Meditar en la Biblia no es lo mismo que vaciar nuestra mente. Es más bien llenarla con las verdades de Dios. Podemos hacerlo reflexionando sobre un versículo o pasaje, escribiéndolo y orando a través de él. Por ejemplo, si estamos preocupados, podemos meditar en un versículo que nos recuerde que Dios está con nosotros en todo momento.<br>
+<br>
+<b>5: Aplicación Práctica y Conclusión</b><br>
+<br>
+El estudio, la memorización y la meditación de la Biblia pueden transformar nuestras vidas. Al dedicar tiempo regular a estas prácticas, podemos conocer más a Dios y experimentar su amor y dirección en nuestras vidas. ¡Así que vamos, toma tu Biblia y comienza tu viaje de descubrimiento hoy mismo!<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>FFFFFF</cfondo>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva2.JPG</imaxe>
+              <son auto="1">1._Estudiar_la_Biblia.mp3</son>
+              <forma>1</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <pe>Mira el siguiente video</pe>
+              <texto posx="2" posy="-5" ancho="592" largo="355"><![CDATA[<font size="12">
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/V0rrWrm7kAw?si=VtMXZmYcJktZn5ji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <cfondo>FFFFFF</cfondo>
+              <ctexto>004040</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva1.PNG</imaxe>
+              <son auto="1">Esdras.mp3</son>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"></font></p>
+]]></texto>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <imaxe>Requisitos_estudio.PNG</imaxe>
+              <son auto="1">Requisitos_estudio.mp3</son>
+              <forma>1</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva6.JPG</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva7.JPG</imaxe>
+              <son auto="1">Necesidades_b_asicas.mp3</son>
+              <forma>1</forma>
+              <cfondo>FFFFFF</cfondo>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="12" >
+              <tipo>38</tipo>
+              <imaxe>Metodolog_ia_estudio.PNG</imaxe>
+              <son auto="1">Metodolog_ia_estudio.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="13" >
+              <tipo>38</tipo>
+              <imaxe>Presentaci_on2.png</imaxe>
+              <son auto="1">Observaci_on.mp3</son>
+              <forma>1</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="14" >
+              <tipo>38</tipo>
+              <imaxe>Ejemplo_romanos.PNG</imaxe>
+              <son auto="1">Ejemplo_romanos.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="15" >
+              <tipo>1</tipo>
+              <imaxe>Absolute_Reality_v16_bible_0.jpg</imaxe>
+              <texto>En el estudio bíblico, la observación es una de las fases más importantes para entender el mensaje de un pasaje. Pregunta: ¿Cuál de las siguientes preguntas corresponde a la fase de observación en el estudio bíblico inductivo?</texto>
+              <resp texto="" valor="0">¿Qué me dice este pasaje acerca de la moral?</resp>
+              <resp texto="" valor="0">¿Cómo puedo aplicar este pasaje en mi vida diaria?</resp>
+              <resp texto="" valor="1">¿Quiénes son los personajes mencionados en este pasaje?</resp>
+              <resp texto="" valor="0">¿Qué debo cambiar en mi comportamiento según este pasaje?</resp>
+        </paxina>
+        <paxina id="16" >
+              <tipo>38</tipo>
+              <imaxe>Interpretaci_on.PNG</imaxe>
+              <son auto="1">Interpretaci_on.mp3</son>
+              <forma>1</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="17" >
+              <tipo>1</tipo>
+              <imaxe>descarga.jpg</imaxe>
+              <texto>La interpretación de la Biblia requiere comprender el contexto histórico y cultural del pasaje. Pregunta: ¿Cuál de los siguientes aspectos NO es esencial para una correcta interpretación bíblica?</texto>
+              <resp texto="" valor="0">Contexto histórico del pasaje.</resp>
+              <resp texto="" valor="0">Gramática y estructura del texto original.</resp>
+              <resp texto="" valor="1">Opiniones modernas sobre el pasaje.</resp>
+              <resp texto="" valor="0">Intención del autor original.</resp>
+        </paxina>
+        <paxina id="18" >
+              <tipo>38</tipo>
+              <imaxe>Aplicaci_on_(2).PNG</imaxe>
+              <son auto="1">Aplicaci_on.mp3</son>
+              <forma>1</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="19" >
+              <tipo>1</tipo>
+              <imaxe>helping-4661809_1280.jpg</imaxe>
+              <texto>La aplicación de los principios bíblicos en la vida diaria es un objetivo clave del estudio bíblico. Pregunta: ¿Cuál de los siguientes es un ejemplo de aplicación práctica de un principio bíblico?</texto>
+              <resp texto="" valor="0">Debatir sobre la autoría de un libro bíblico.</resp>
+              <resp texto="" valor="0">Memorizar la genealogía en el Antiguo Testamento.</resp>
+              <resp texto="" valor="1">Ayudar a un vecino necesitado según la parábola del Buen Samaritano.</resp>
+              <resp texto="" valor="0">Analizar las metáforas en los Salmos.</resp>
+        </paxina>
+        <paxina id="20" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva10.JPG</imaxe>
+              <son auto="1">mportancia_memoriazi_on.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="21" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva11.JPG</imaxe>
+              <son auto="1">Estrategias_memorizaci_on.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="22" >
+              <tipo>28</tipo>
+              <pe>Ingresa al recursos dando click en el rectángulo azul</pe>
+              <imaxe>Ingresa.png</imaxe>
+              <boton texto="Herramientas para la memorización">https://drive.google.com/file/d/1RotcICPMcj7gcZm2YEuH4yyOvuLMS0O2/view?usp=drive_link</boton>
+        </paxina>
+        <paxina id="23" >
+              <tipo>1</tipo>
+              <imaxe>Absolute_Reality_v16_christian_woman_praying_0.jpg</imaxe>
+              <texto>La memorización de versículos bíblicos ayuda a reforzar y reflexionar sobre las enseñanzas de la Biblia. Pregunta: ¿Cuál es uno de los beneficios principales de memorizar versículos bíblicos?</texto>
+              <resp texto="" valor="0">Impresionar a otras personas con el conocimiento bíblico.</resp>
+              <resp texto="" valor="1">Tener una referencia rápida en situaciones de la vida diaria.</resp>
+              <resp texto="" valor="0">Demostrar devoción a la iglesia.</resp>
+              <resp texto="" valor="0">Cumplir con una disciplina cristiana.</resp>
+        </paxina>
+        <paxina id="24" >
+              <tipo>38</tipo>
+              <imaxe>Objetivo_meditaci_on.PNG</imaxe>
+              <son auto="1">Objetivo_meditaci_on.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="25" >
+              <tipo>38</tipo>
+              <imaxe>Importancia_meditaci_on.PNG</imaxe>
+              <son auto="1">Importancia_meditaci_on.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="26" >
+              <tipo>38</tipo>
+              <imaxe>Diferencias_meditaci_on.PNG</imaxe>
+              <son auto="1">Diferencias_meditaci_on.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="27" >
+              <tipo>1</tipo>
+              <imaxe>man-1350599_1280.jpg</imaxe>
+              <texto>Comparar la meditación bíblica con otras formas de meditación puede ayudar a comprender mejor sus características únicas. Pregunta: ¿Cuál de las siguientes afirmaciones es verdadera sobre la meditación bíblica en comparación con la meditación moderna?</texto>
+              <resp texto="" valor="0">La meditación bíblica se centra en vaciar la mente completamente.</resp>
+              <resp texto="" valor="1">La meditación bíblica se enfoca en la reflexión sobre las Escrituras.</resp>
+              <resp texto="" valor="0">La meditación moderna siempre incluye la oración.</resp>
+              <resp texto="" valor="0">La meditación moderna es exclusivamente religiosa.</resp>
+        </paxina>
+        <paxina id="28" >
+              <tipo>38</tipo>
+              <imaxe>Diapositiva14.JPG</imaxe>
+              <son auto="1">Reflexi_on_final.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="29" >
+              <tipo>38</tipo>
+              <imaxe>Aplicaci_on_pr_actica.PNG</imaxe>
+              <son auto="1">Conclusi_on.mp3</son>
+              <forma>0</forma>
+              <ctexto>004040</ctexto>
+        </paxina>
+        <paxina id="30" >
+              <tipo>9</tipo>
+              <cabeceira>Actividad de retroalimentación</cabeceira>
+              <texto><![CDATA[Realiza la siguiente actividad para verificar la comprensión del tema desarrollado en este recurso, dando click en Preguntas. ]]></texto>
+              <liga posx="50" posy="300" ir="https://es.educaplay.com/recursos-educativos/18808611-encuentro_con_dios_en_su_palabra.htmll">Has click aquí</liga>
+        </paxina>
+    </libro>
+</lim>
